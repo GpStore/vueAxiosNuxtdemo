@@ -1,0 +1,10 @@
+{
+ "name": "simple_nuxt_demo",
+ "scripts": {
+  "dev": "nuxt"
+ },
+ "dependencies": {
+  "axios": "^0.17.0",
+  "nuxt": "^1.0.0-rc11"
+ }
+}
